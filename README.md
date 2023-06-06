@@ -2,7 +2,7 @@
 
 This is a simple implementation of the chess game using Pygame.
 
-## Features
+## ToDo Features
 
 - Classic chess game rules and movements
 - Two-player mode
